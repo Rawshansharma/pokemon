@@ -47,7 +47,7 @@ useEffect(() => {
   return (
     <div className="App">  
       {/* Search input */}
-      <h1>Pokemon AJLDKASDLA</h1>
+      <h1>Pokemon AJLDKASDLA gjhjgh</h1>
        <div className='flex justify-center items-center m-4'>
        <input
         type="text"
